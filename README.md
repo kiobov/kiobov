@@ -6,7 +6,7 @@ I have a couple of friends who we either studying , working on a project, having
 
 I use Python for scripting or analysis or jupyter, Excel for analysis , C++, Juce, Matlab
 
-You might notice many pinned projects but i have a few current ones that are well documented and current ie; Pluginproject //and groupproject
+You might notice many pinned projects but i have a few current ones that are well documented and current ie; [Pluginproject](https://github.com/kiobov/Project1) //and groupproject
 
 Feel free to reach me out on email @nyakio19roseary@gmail.com
 Thank you. 
