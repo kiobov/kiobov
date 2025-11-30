@@ -4,7 +4,7 @@ Am currently building an audio Plugin using Juce and C++
 
 I have a couple of friends who we either studying , working on a project, having fun or volunteering in tech events 
 
-Tech Stack - Python for scripting, Excel , C++, Juce, Matlab
+I use Python for scripting or analysis or jupyter, Excel for analysis , C++, Juce, Matlab
 
 You might notice many pinned projects but i have a few current ones that are well documented and current ie; Pluginproject //and groupproject
 
