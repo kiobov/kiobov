@@ -1,7 +1,11 @@
 Hello, am Rosemary, sometimes i play with data other times am building 
+
 Am currently building an audio Plugin using Juce and C++
+
 I have a couple of friends who we either studying , working on a project, having fun or volunteering in tech events 
+
 Tech Stack - Python for scripting, Excel , C++, Juce, Matlab
+
 You might notice many pinned projects but i have a few current ones that are well documented and current ie; Pluginproject //and groupproject
 
 Feel free to reach me out on email @nyakio19roseary@gmail.com
