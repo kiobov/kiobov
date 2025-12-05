@@ -1,4 +1,4 @@
-Hello, am Rosemary, i am into big data(data scientist) and low level building(C++ developer) 
+Hello, am Rosemary, i'm into big data(data scientist) and low level building(C++ developer) 
 
 Am currently building an audio Plugin using Juce and C++ [Pluginproject](https://github.com/kiobov/Audio_Plugin) 
 
