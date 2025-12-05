@@ -4,7 +4,7 @@ Am currently building an audio Plugin using Juce and C++ [Pluginproject](https:/
 
 My friends and 1 we either studying , working on a project, having fun or volunteering in tech events 
 
-When am using data Python is for scripting or analysis or jupyter, Excel for analysis , C++ for low level, Juce, Matlab
+When am using data Python is for scripting or analysis or jupyter, Excel and C++ for low level, Juce, Matlab
 
 This projects show me experience and interests i enjoy studying new topics ,solving problems keep me awake.
 
