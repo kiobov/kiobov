@@ -1,15 +1,14 @@
 Hello, am Rosemary, sometimes i play with data other times am building 
 
-Am currently building an audio Plugin using Juce and C++
+Am currently building an audio Plugin using Juce and C++ [Pluginproject](https://github.com/kiobov/Audio_Plugin) 
 
-I have a couple of friends who we either studying , working on a project, having fun or volunteering in tech events 
+My friends and 1 we either studying , working on a project, having fun or volunteering in tech events 
 
-I use Python for scripting or analysis or jupyter, Excel for analysis , C++, Juce, Matlab
+When am using data Python is for scripting or analysis or jupyter, Excel for analysis , C++ for low level, Juce, Matlab
 
-You might notice many pinned projects but i have a few current ones that are well documented and current ie; [Pluginproject](https://github.com/kiobov/Project1) //and groupproject
+This projects show me experience and interests enjoy studying new topics work well in a little pressure to keep me awake all night is welcome anyday.
 
-Feel free to reach me out on email @nyakio19roseary@gmail.com
-Thank you. 
+Reach me out via email nyakio19roseary@gmail.com or twitter/X. Enjoy your time around. Bye. 
 <!--
 **kiobov/kiobov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
