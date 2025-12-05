@@ -6,9 +6,11 @@ My friends and 1 we either studying , working on a project, having fun or volunt
 
 When am using data Python is for scripting or analysis or jupyter, Excel for analysis , C++ for low level, Juce, Matlab
 
-This projects show me experience and interests enjoy studying new topics work well in a little pressure to keep me awake all night is welcome anyday.
+This projects show me experience and interests i enjoy studying new topics ,solving problems keep me awake.
 
-Reach me out via email nyakio19roseary@gmail.com or twitter/X. Enjoy your time around. Bye. 
+You can reach me out on my socials or via email nyakio19roseary@gmail.com or twitter/X. 
+
+Thanks and enjoy your time around. Bye. 
 <!--
 **kiobov/kiobov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
